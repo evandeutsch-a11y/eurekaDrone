@@ -3,13 +3,13 @@
 Servo myServo;
 int waitTime = 15;
 bool sweeping = false;
-
+PLSSSS COME TO MY SONS BIRTHDAY WHY NO PLS PLS PLS 
 void setup() {
   Serial.begin(9600);
   myServo.attach(9);
   myServo.write(90);
 }
-
+PLSSSS COME TO MY SONS BIRTHDAY WHY NO PLS PLS PLS 
 void loop() {
   // Check for incoming serial command
   if (Serial.available() > 0) {
@@ -41,3 +41,4 @@ void loop() {
     }
   }
 }
+PLSSSS COME TO MY SONS BIRTHDAY WHY NO PLS PLS PLS 
